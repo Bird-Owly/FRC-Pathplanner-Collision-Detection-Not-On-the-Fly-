@@ -1,0 +1,6 @@
+{
+    "minimumDistance": 0.5,
+    "hashInterval": 3,
+    "detectionIntervalms": 100,
+    "obstacleCoordinates": [[5, 10, 11], [20, 18, 17], [5, 5, 5]]
+}
